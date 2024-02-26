@@ -7,5 +7,4 @@
 - In this app sources code language, Java and Kotlin has been used.
 - App is in Light Blue theme.
 
-![Unit converter](/preview1.mp4)
-![Unit converter](/preview2.mp4)
+https://github.com/Sakshilahamge/OIBSIP.UnitConverter.App/assets/155747835/7d31ee21-06af-4dfc-aa96-ccfbba5f9c33
